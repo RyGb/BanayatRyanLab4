@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BanayatRyanLab4</string>
+    <string name="Title">Manila Bay</string>
+    <string name="Text1">Location:</string>
+    <string name="Text2">Distance from UST:</string>
+    <string name="Location">Roxas Blvd, Manila, Luzon Philippines</string>
+    <string name="Distance">4.5 km from University of Santo Tomas</string>
+    <string name="Back">Back</string>
+    <string name="Next">Next</string>
+</resources>
